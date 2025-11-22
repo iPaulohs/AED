@@ -1,0 +1,7 @@
+[book]
+title = "Algoritmos e Estruturas de dados em C#"
+authors = ["iPaulohs_1"]
+language = "pt"
+
+[output.html.playground]
+editable = true
